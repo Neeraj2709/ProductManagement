@@ -1,0 +1,6 @@
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.csproj.AssemblyReference.cache
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfoInputs.cache
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfo.cs
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.csproj.CoreCompileInputs.cache
+/Users/neeraj/RiderProjects/WebApplication2/ProductManagement/obj/Debug/net8.0/ProductManagement.MvcApplicationPartsAssemblyInfo.cache
